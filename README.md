@@ -1,9 +1,10 @@
-My Code Base for my senior thesis. Contains 3 python files:
+My Code Base for my senior thesis at WashU under Mladen Wickerhauser. 
+This repository contains 3 python files:
 
--The Machine Learning Algorithm
+-The machine learning - based implementation
 
--The Python part of the Classical Algorithm
+-The python part of the classical implementation
 
--The Python script to resize images.
+-The python script to resize images
 
 I've also uploaded the final PDF of my thesis, which is the Friewald Work III pdf file.
